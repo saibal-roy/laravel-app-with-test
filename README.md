@@ -1,4 +1,4 @@
-# Demo Laravel app with tests
-
-This repository includes a demo of writing tests in Laravel application.
-Note: This repository is only for educational purposes.
+# Sample Laravel App having the following: 
+1. Links submission with listing 
+2. TDD 
+3. Github Actions(CI & CD) - which runs all the tests
